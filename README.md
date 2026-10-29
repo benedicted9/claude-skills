@@ -26,3 +26,4 @@ Le repo est privé : `gh auth login` (ou un identifiant Git configuré) doit êt
 | Skill | Description |
 |-------|-------------|
 | `exemple-skill` | Skill d'exemple à remplacer. |
+| `redaction-user-stories` | Rédige des user stories / spécifications fonctionnelles selon la trame en 7 sections, sources tracées, trous signalés. |
